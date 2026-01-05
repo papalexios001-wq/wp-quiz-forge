@@ -1,0 +1,7 @@
+{
+  "name": "QuizForge AI (New 001)",
+  "description": "An AI-powered tool that connects to your WordPress site, analyzes your blog posts, and generates engaging, interactive quizzes to boost reader engagement and time-on-page.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
